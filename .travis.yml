@@ -7,6 +7,6 @@ deploy:
   github-token: "$GITHUB_TOKEN"
   keep-history: true
   local-dir: _site
-  fqdn: po.pdis.rocks
+  fqdn: po.pdis.tw
   on:
     branch: master
