@@ -1,6 +1,18 @@
 home: 
   cta: 馬上開始
 
+nav:
+  opengov: 開放政府
+  po:
+    title: 開放政府聯絡人
+    intro: 聯絡人簡介
+    directions: 聯絡人要點
+  collaborative-meetings:
+    title: 協作會議
+    intro: 會議簡介
+    process: 會議流程
+    tools: 會議工具
+
 # 開放政府 ======================================================================
 
 opengov:
