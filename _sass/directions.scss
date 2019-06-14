@@ -7,8 +7,11 @@
         .title{
             font-weight: 700;
         }
-        ol{
+        ol:lang(zh-TW){
             list-style-type: cjk-ideographic;
+        }
+        ol:lang(en){
+            list-style-type: decimal;
         }
         .reason {
             margin-top: 35px;

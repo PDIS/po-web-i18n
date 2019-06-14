@@ -46,7 +46,7 @@ opengov:
         content: In the process of policy formation, the public is given the opportunity to participate in discussions, express opinions, and even further influence the content of policy on topics of interest. As a result, while the public sector needs to spend more time building consensus, when the policy takes shape, it is less likely to be opposed by the public or totally objected. 
       - title: Accountability
         img: 1 _ 課責.png
-        content: When the public has doubts about the process of policy formation, we can look back to see who does and what are the reasons for adopting or not adopting it? Through the "accountability" mechanism, a "responsible" culture is established so that everyone can take the initiative to take responsibility for their own opinions. 
+        content: When the public has doubts about the process of policy formation, we can look back to see who does and what are the reasons
       - title: Inclusion
         img: 1 _ 涵容.png
         content: Public issues are broadly oriented. In the course of discussion of an issue, if the public sector is able to allow the various stakeholders who are directly affected by policy to fully voice their views and able to listen to their dialogues, it can collect as many views as possible so as to reduce the likelihood of policy errors.
@@ -261,3 +261,46 @@ footer:
 
 
     Source code of this site：<a href="https://github.com/PDIS/">Github Repo.</a>
+
+# 聯絡人要點 ======================================================================
+
+directions:
+  title: Directions for Implementing the Role of Participation Officers in the Executive Yuan and Subordinate Agencies
+  update_date: Pr Date：2017-12-04
+  reason:
+  list:
+    - title: These Directions are made by the Executive Yuan for the purpose of regulating the implementation of the role of participation officers (hereinafter POs) in the Executive Yuan and its subordinate agencies, so as to put into effect the principle of open government, and establish a relationship of mutual trust and partnership between the government and all sections of society.
+      reason:
+
+    - title: The Executive Yuan will designate one minister without portfolio to supervise the work of open government in the Executive Yuan and its subordinate agencies, and to establish a liaison system that integrates the POs at all government agencies.
+      reason:
+
+    - title: Second-level agencies subordinate to the Executive Yuan and independent Executive Yuan agencies at an equivalent level (hereinafter collectively referred to as second-level agencies) shall designate at least one person of appropriate rank and full authorization to act as PO, under the supervision of a deputy agency head or chief information officer, and may progressively assign personnel to undertake this duty as needed in subordinate agencies.
+      reason:
+
+    - title: The POs at each agency shall be civil servants who are able to conduct public communication warmly and sincerely, and are familiar with policy work and adept at using internet tools.
+      reason:
+
+    - title: POs may operate flexibly to address the specifics of a given issue, and should enhance lateral communication and liaison within the agency. Each agency may, according to need, form a working group composed of a legislative liaison and press liaison, as well as information, evaluation and other related personnel, to collaborate together.
+      reason:
+
+    - title: During the policy formulation and promotion process, each government agency shall give full consideration to transparency, participation, accountability, inclusion and other basic principles of open government. If complex stakeholder relationships, multiple differences of opinion or issues of intense public participation are involved, the PO shall assist the head of the agency concerned to assess in the initial stage of policy planning whether the agency should adopt an appropriate process upholding the principle of open government.<br>If more than one government agency is involved in addressing an issue as referred to in the preceding paragraph, then the PO at the originating agency may initiate communication to collaborate with the POs at other government agencies, or may submit a request through the open government liaison system for the minister without portfolio who is charged with supervising the work of open government to convene an inter-agency collaboration meeting.
+      reason:
+
+    - title: To strengthen the open government liaison system, the Executive Yuan may at regularly or specially scheduled times convene the following meetings
+      reason:
+      points:
+        - "Open government policy coordination meetings: In principle to be convened once quarterly and attended by deputy heads or chief information officers at the second-level agencies who supervise open government work, to consider and discuss important policies and implementation programs for open government"
+        - "PO work promotion meetings: In principle to be convened once monthly and attended by POs at second-level agencies, to conduct a rolling review of work required to promote open government"
+        - "Issue-specific open government coordination meetings: To be convened as needed and attended by interested parties, related government agencies (institutions), concerned groups, and the responsible POs, to clarify the central facts and questions of the issue concerned, and to discuss feasible solutions"
+
+    - title: The Executive Yuan and the National Development Council shall assist POs at all agencies to progressively cultivate the following specialist competencies
+      reason:
+      points:
+        - To communicate with multiple stakeholders at the initial stage of policy planning, and by such means as use of open data and interpretation, link policy planning to common everyday speech
+        - To professionally convene such proceedings as coordination meetings, focus group consultations and public hearings so as to raise the level of focus on the topics of discussion
+        - To use text, video, audio or other professional documentation methods for publicizing government policy and the policy formulation processes
+        - To become proficient in the use of online tools and civic technology for enhancing rational dialogue with the public.
+
+    - title: All government agencies shall appropriately reward effective POs for achievement in promoting the work of open government.
+      reason:
