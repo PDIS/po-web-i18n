@@ -20,6 +20,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="{{ 'po'| relative_url }}">{% t nav.po.intro %}</a>
                     <a class="dropdown-item" href="{{ 'directions'| relative_url }}">{% t nav.po.directions %}</a>
+                    <a class="dropdown-item" href="{{ 'topics-process'| relative_url }}">{% t nav.po.topic-process %}</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -65,9 +66,15 @@
                     </li>
                 </a>
 
-                <a class="nav-link bold" href="{{ 'directions'| relative_url }}">
+                <a class="nav-link" href="{{ 'directions'| relative_url }}">
                     <li class="nav-item">
                         {% t nav.po.directions %}
+                    </li>
+                </a>
+
+                <a class="nav-link bold" href="{{ 'topics-process'| relative_url }}">
+                    <li class="nav-item">
+                        {% t nav.po.topic-process %}
                     </li>
                 </a>
 

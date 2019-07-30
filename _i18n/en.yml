@@ -7,6 +7,7 @@ nav:
     title: Participation Officers
     intro: What is PO
     directions: Directions of PO 
+    topic-process: Principle of Processing Collaborative Topics
   collaborative-meetings:
     title: Collaborative Meetings
     intro: What is Collaborative Meetings
@@ -304,3 +305,32 @@ directions:
 
     - title: All government agencies shall appropriately reward effective POs for achievement in promoting the work of open government.
       reason:
+
+topics-process:
+  title: The principle of processing collaborative topics in open government collaborative meetings
+  preface: In order to promote the open government, the collaborative conference is an important platform for promoting public-private partnership and multi-stakeholder dialogue. After long-term operation, how to create appropriate collaboration issues through proposals, discussions, and voting, and transparently open government transparency, participation, responsibilities, and tolerance. The goals, the previous PO work to promote the meeting gradually formed a habit. In order to ensure the stability and stability of the operation, the principle is produced in the form of written rules for reference. However, its nature is not a real law. It is a working document that records the common experience. It is expected that users will continue to provide feedback during the practice verification to adjustment.
+  list:
+    - title: "Regarding the selection of collaborative topics in open government collaborative meetings (hereinafter \"collaborative topics\"): the selection should be based on the principles of the collaborative topic having complex stakes, diverging views of multiple stakeholders, and enthusiastic public participation, which results in a need to interdepartmental collaboration."
+
+    - title: Agencies (units) to propose collaborative topics：
+      points:
+        - title: "Executive Yuan: Proposals to be made by Public Digital Innovation Space (hereinafter \"PDIS\") or offices of Ministers without Portfolio relevant to the topic."
+        - title: "National Development Council (hereinafter \"NDC\"): Proposals to be made by selecting topics necessitating collaboration, from \"Suggest an Idea\" or \"Let's Discuss\" on the Executive Yuan's Public Policy Network Participation Platform."
+        - title: "Ministries: Participation Officers in all ministries (hereinafter \"PO\") may make proposals; the ministry of which the PO belongs to shall be the organizer or co-organizer of the collaborative meeting."
+    
+    - title: "The decision on collaborative topics:"
+      points:
+        - title: "By vote: Topics proposed by the Executive Yuan, NDC, or ministerial POs can be voted on in PO work meetings held each month (hereinafter \"PO monthly meetings\"), thus becoming a collaborative topic."
+        - title: "Self proposed: The organizing agency may propose topics on industry management, which become collaborative topics without the need for a vote.  However, the organizing agency must propose a relevant report in the most recent PO monthly meeting."
+    
+    - title: "Voting procedures in collaborative meetings:"
+      points:
+        - title: Topics decided by vote and self proposed shall constitute two collaborative topics each month.  However, if there are significant and time sensitive collaborative topics, an extra one to two topics may be added.
+        - title: All ministerial POs and PDIS personnel participating in PO monthly meetings have the right to vote, such that they may elect for topics that are selected by vote.  The number of votes must reach half of the number of topics voted upon.
+        - title: Self proposed topics have the priority to be discussed on collaborative meetings.  The remaining meetings shall be allocated to the topics with the highest percentage of votes, with the denominator being the sum of voters among participants and the nominator being the number of votes of individual topics.  All topics must receive at least half of the votes to become a collaborative topic.
+        - title: Should one of the undermentioned situations occur, each individual organizing agency shall determine whether a collaborative meeting should be held.
+          points: 
+            - title: The topic has received more than half of the votes cast, but has not been chosen due to limitations in the number of meetings.
+            - title: The topic has not received more than half of the votes cast, but the collaborative topics of the month are less than two.
+
+    - title: "Processing time of the collaborative meetings: This shall be discussed among the organizing agency and PDIS, and the collaborative meetings shall in principle be processed the month following the PO monthly meeting.  Should the collaborative topic be decided by vote, the same organizing agency must not hold a second collaborative meeting within 45 days of the first, unless the organizing agency has approved so, lest other topics that have not been discussed in collaborative meetings be delayed in their processing."

@@ -1,0 +1,54 @@
+---
+permalink: /topics-process/
+layout: default
+---
+
+<div id="directions">
+    <div class="section section-end">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>
+                        {% t topics-process.title %}
+                    </h2>
+                    <p class="preface">
+                        {% t topics-process.preface %}
+                    </p>
+                </div>
+            </div>
+            {% capture features %}{% t topics-process.list %}{% endcapture %}
+            {% assign features = features | eval_array %}
+            {%- for process in features -%}
+            <div class="direction">
+                <div class="row justify-content-center">
+                    <div class="col-lg-1">
+                        <a class="number">
+                            {{forloop.index}}
+                        </a>
+                    </div>
+                    <div class="col-lg-9">
+                        <p class="title">
+                            {{process.title}}
+                        </p>
+                        <ol lang="{{site.lang}}">
+                            {%- for point in process.points -%}
+                            <li>
+                                {{point.title}}
+                                <ol lang="{{site.lang}}">
+                                    {%- for sub_point in point.points -%}
+                                    <li>
+                                        {{sub_point.title}}
+                                    </li>
+                                    {%- endfor -%}
+                                </ol>
+                            </li>
+                            {%- endfor -%}
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            {%- endfor -%}
+
+        </div>
+    </div>
+</div>
