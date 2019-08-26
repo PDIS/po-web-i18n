@@ -236,9 +236,11 @@ workshop-tools:
     - title: Transcript
       content: Transcript is to record all speeches in the meeting as fully as possible. Through verbatim notes, all interested parties will be able to understand the full course of the day's discussion after the meeting. At the same time, you can see how different stakeholders address each other's needs in the meeting. In addition to allowing you to understand the context of the discussion, open online verbatim text can also reduce future repeated discussions on the same topic; A verbatim presentation can also serve as a basis for post examination to avoid the participants being misinterpreted as necessarily supporting the conclusions of the meeting.
       column: 1
+      img: 2 _ 轉譯.png
     - title: Live broadcast 
       content: Live broadcast is a more comprehensive, instant recording than verbatim. Through public audio and video, people interested in the issue can immediately participate in the meeting , understand the status of the meeting, and their views can be immediately sent back to the meeting, so that more interested friends can join the meeting immediately. The live video left on the Internet after the meeting can also be used to restore the meeting process and present the material of the discussion, although it takes some time to watch; Notably, the live broadcast may give some attendees a "show" incentive to influence the meeting.
       column: 1
+      img: 1 _ 設定議題.png
     - title: Toolkits
       content: Innovative tools, processes, and thinking can assist and facilitate existing policy development processes, daily business processes, and meeting agendas. The use of tool process records can help open algorithms for discussion and resolution processes, summarize opinions, and form an open and transparent policy process. It will be of practical help to both internal and external communications. 
       column: 2
