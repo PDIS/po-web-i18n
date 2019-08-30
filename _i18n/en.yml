@@ -21,7 +21,7 @@ opengov:
     title: What is open government?
     content0: The open government was proposed by an international organization called the OGP (Open Government Partnership). 
     content1: 「......Adhering to open value and engaging with citizens to improve services, manage public resources, drive innovation and build safer communities. With the principle of transparency and open government, we will achieve prosperity, well-being and a society in line with human dignity in our own country and in an increasingly connected world.......」
-    content2: The four visions of an open government—the future we look forward to—are transparency, participation, responsibility, and tolerance.
+    content2: The four visions of an open government—the future we look forward to—are transparency, participation, accountability, and inclusion.
   
   why:
     title: Why should there be an open government? 
@@ -33,11 +33,11 @@ opengov:
 
   who:
     title: Who will advocate for an open government? 
-    content: An open government is everyone's business, so we need people who are willing to participate in the policy drive process, the civil servants who can share practical experiences, and the administrative officers who can take responsibility; So the "open government contact" appointed by the ministries, or PO (Participation Officer), is the "seed" of changing the culture of public service and fertilizing deeply open government.
+    content: An open government is everyone's business, so we need people who are willing to participate in the policy drive process, the civil servants who can share practical experiences, and the administrative officers who can take the lead on accountability; So the "open government contact" appointed by the ministries, or PO (Participation Officer), is the "seed" of changing the culture of public service and fertilizing deeply open government.
 
   points:
     title: The four elements of an open government
-    content: What is an open government? To put it simply, in the process of making public policies, the four elements of transparency, participation, responsibility, and tolerance are gradually fused. That is the way to implement an open government. But specifically, what should be done?
+    content: What is an open government? To put it simply, in the process of making public policies, the four elements of transparency, participation, accountability, and inclusion are gradually fused. That is the way to implement an open government. But specifically, what should be done?
     list:
       - title: Transparency
         img: 1 _ 透明.png
@@ -51,7 +51,7 @@ opengov:
       - title: Inclusion
         img: 1 _ 涵容.png
         content: Public issues are broadly oriented. In the course of discussion of an issue, if the public sector is able to allow the various stakeholders who are directly affected by policy to fully voice their views and able to listen to their dialogues, it can collect as many views as possible so as to reduce the likelihood of policy errors.
-    summary: The above mentioned four elements shall be linked together in order to achieve the vision of an open government. If there is only transparency, but no responsibility, or if there is participation without tolerance, serious problems will arise. There is only a superficial openness, but no spirit of openness. It will become an "open washing."
+    summary: The above mentioned four elements shall be linked together in order to achieve the vision of an open government. If there is only transparency, but no accountability, or if there is participation without inclusion, serious problems will arise. There is only a superficial openness, but no spirit of openness. It will become an "open washing."
 
   link-to-po: Participation Officers
 
@@ -142,13 +142,13 @@ workshop:
   what: 
     title: What's a collaborative meeting? 
     content: >
-      We have mastered the concept of an open government (transparency, participation, responsibility, tolerance), and the seeds of promoting open government (PO), how do we promote public-private collaboration? The way we chose was a collaboration meeting. 
+      We have mastered the concept of an open government (transparency, participation, accountability, inclusion), and the seeds of promoting open government (PO), how do we promote public-private collaboration? The way we chose was a collaboration meeting. 
 
 
       What is "collaboration"? "Collaboration" is that everyone has different ideas and goals for an issue, but wants to contribute. So everyone talks together, listens to each other, tries to find consensus, and starts thinking about solutions from there. The ultimate hope is that "the outcome of the meeting, though not the one I want most, is not contrary to my philosophy and acceptable." 
 
 
-      There are various methods and tools for practicing open government. We came up with the "collaboration meeting." Different topic attribute may require different process and form. In any form, the most important remains the spirit of transparency, participation, accountability, and tolerance of an open government.
+      There are various methods and tools for practicing open government. We came up with the "collaboration meeting." Different topic attribute may require different process and form. In any form, the most important remains the spirit of transparency, participation, accountability, and inclusion of an open government.
 
   intro:
     - title: The purpose of collaborative meetings 
@@ -310,7 +310,7 @@ directions:
 
 topics-process:
   title: The principle of processing collaborative topics in open government collaborative meetings
-  preface: In order to promote the open government, the collaborative conference is an important platform for promoting public-private partnership and multi-stakeholder dialogue. After long-term operation, how to create appropriate collaboration issues through proposals, discussions, and voting, and transparently open government transparency, participation, responsibilities, and tolerance. The goals, the previous PO work to promote the meeting gradually formed a habit. In order to ensure the stability and stability of the operation, the principle is produced in the form of written rules for reference. However, its nature is not a real law. It is a working document that records the common experience. It is expected that users will continue to provide feedback during the practice verification to adjustment.
+  preface: In order to promote the open government, the collaborative conference is an important platform for promoting public-private partnership and multi-stakeholder dialogue. After long-term operation, how to create appropriate collaboration issues through proposals, discussions, and voting, and transparently open government transparency, participation, accountability, and inclusion. The goals, the previous PO work to promote the meeting gradually formed a habit. In order to ensure the stability and stability of the operation, the principle is produced in the form of written rules for reference. However, its nature is not a real law. It is a working document that records the common experience. It is expected that users will continue to provide feedback during the practice verification to adjustment.
   list:
     - title: "Regarding the selection of collaborative topics in open government collaborative meetings (hereinafter \"collaborative topics\"): the selection should be based on the principles of the collaborative topic having complex stakes, diverging views of multiple stakeholders, and enthusiastic public participation, which results in a need to interdepartmental collaboration."
 
