@@ -169,21 +169,21 @@ workshop:
 # workshop process ====================================================================
 
 workshop-process:
-  title: Collaborative meeting process 
+  title: Collaborative Meeting Process
   list:
     - title: Agenda Setting
-      content: At the open government PO monthly meeting, the National Development Commission proposes topics for the PO of various ministries to vote. These topics typically come from proposals that have been seconded by more than 5000 people on the Join platform, or are proposed by the ministry itself. So far, cases with such attributes as "interdepartmental," "pluralistic views," "public concerns," "frequently repeated proposals," and so on, are more likely to be selected.
+      content: At the Open Government PO monthly meeting, any PO can propose topics for POs from various ministries to vote. These topics typically come from proposals that have been raised by more than 5000 people on the Join platform, or proposed by the POs from different ministries. So far, issues that are 'interdepartmental', 'proposed frequently' or issues that involve 'pluralistic views' and 'public concerns' are more likely to be selected.
       img: /assets/images/1 _ 設定議題.png
       links:
         - title: Join
           link: https://join.gov.tw
         - title: Slido Online Voting
           link: https://slido.com
-    - title: Delegation of Tasks and Responsibilities
-      content: At the beginning of the division of work, it is necessary to confirm the main co-organizer. The organizer needs to contact the sponsor, confirm the content of the proposal and the date of the meeting, and respond to the initial schedule on the Join platform, invite the second party, and respond to the results of the meeting after the meeting; the co-organizers need to attend the relevant meeting and provide relevant information. To the organizer, the Eli meeting.
+    - title: Delegate Tasks and Responsibilities
+      content: Delegation of the wider work roles is key at the beginning to confirm the coordinators. The coordinators needs to contact the main petitioner, confirm the content of the proposal and the date of the collaborative meeting. Then they need to respond to the initial concern being raised on the Join platform, invite relevant stakeholders, and respond to the results of the meeting. The co-organizers need to attend meetings and provide relevant information.
       img: /assets/images/2 _ 確認分工.png
-    - title: Researching topics
-      content: The host team should grasp the context of the issue at this time. At the outset, the team will ask the main organization to assist in understanding the position of the ministry, whether there are representatives of public opinion or non-governmental organizations concerned about this issue, and how relevant policies have been discussed, and then compile the analysis table of the topic. Then the team asks the collaborative organization to assist in providing relevant research and information, or good articles with even different opinions.
+    - title: Research
+      content: The host team should grasp the context of the issue at this time. In the beginning, the PDIS team asks the coordinator to assist in understanding the position of the ministry, whether the representatives of public opinion or non-governmental organizations have concerns, how policies have been discussed in the past, and then compile the analysis of the topic. Then the PDIS team asks the co-organizers to assist in providing relevant research and information, or good articles with different opinions.
       img: /assets/images/3 _ 研究議題.png
       links:
         - title: Issue Mapping Instruction
@@ -195,8 +195,8 @@ workshop-process:
         - title: Persona
           link: /assets/files/zh-TW/人物誌.pdf
 
-    - title: Defining the core issues
-      content: After defining the core issues and clarifying the context, you can hold a pre-session meeting. During the pre-session meeting, the presiding team and relevant departments must jointly plan the collaborative meeting process, identify the scope of the issue, and focus on the aspects for discussion.
+    - title: Define Core Issues
+      content: A prep meeting can be hosted by PDIS after defining the core problems and clarifying the context. During the prep meeting, the presiding team, relevant ministries and departments must jointly plan the collaborative meeting process, identify the scope and aspects of the topic.
       img: /assets/images/4 _ 定義核心問題.png
       links:
         - title: Challenge Statement
@@ -204,8 +204,8 @@ workshop-process:
         - title: Online Mind Map
           link: https://realtimeboard.com/app/
 
-    - title: Issuing possible solutions
-      content: Before the meeting, the administrative work such as notification of the meeting, list of attendance, sending out the topic manual, and so on, should also be confirmed. Also, we should confirm whether the relevant conditions such as seats, lunches, tea, and live broadcasts are in place. In terms of topics, expectation management should be carried out by means of topic manuals and other methods before the meeting. During the meeting we should again confirm the participants' understanding of the issues, align their cognition with each other, and then issue possible solutions to the key, core problems.
+    - title: Deliberate Possible Solutions
+      content: Before the meeting, the administrative work such as notification of the meeting, list of attendees, sending out the topic manual, and so on, should also be confirmed. Also, relevant conditions such as seating arrangements, lunch, tea, and live broadcasts should be in place. In terms of topics, expectation management should be carried out by means of an information pack (detailing different aspects of the topic) and other methods before the meeting. During the meeting, the host should align participants' understanding of the issues, and then co-create possible solutions to the core problems with relevant stakeholders.
       img: /assets/images/5 _ 協作會議.png
       links:
         - title: Idea Development sheet A
@@ -225,8 +225,8 @@ workshop-process:
         - title: Slido
           link: https://slido.com
 
-    - title: Adopting in policy
-      content: The Policy Committee, which supervises policy in the open government, reports to the premier and other councillors after collaborative meetings. If there is something suggested or thought by the coordination meeting that can be taken, it will be returned to the Executive Yuan command system. If the Executive Yuan does not have a specific ruling or policy objective, the Ministry will consider whether the various opinions collected at the coordination meeting can be taken into account. If so, they will be included in the policy formation process and dealt with in accordance with the existing administrative procedures.
+    - title: Update Policy
+      content: The Digital Minister who is in charge of Open Government reports to the premier and other ministers after collaborative meetings. If there are useful ideas generated in the collaborative meeting, it will be returned to the Executive Yuan administrative system. If the Executive Yuan does not have a specific ruling or policy objective, the ministries will consider whether the various opinions and ideas collected at the collaborative meetings need to be taken into account. If so, they will be included in the rest of the policy-making process and be dealt with in accordance with the existing administrative procedures.
       img: /assets/images/6 _ 納入政策參考.png
 
 # 協作會議工具 ====================================================================
