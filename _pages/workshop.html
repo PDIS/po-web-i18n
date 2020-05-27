@@ -23,14 +23,13 @@ layout: default
                 <div class="col-lg-8">
                     {% capture features %}{% t workshop.intro %}{% endcapture %}
                     {% assign features = features | eval_array %}
-
                     {%- for item in features -%}
                     <h3>
                         {{item.title}}
                     </h3>
-                    <p class="inter-section">
+                    <div class="inter-section">
                         {{item.content}}
-                    </p>
+                    </div>
                     {%- endfor -%}
                 </div>
             </div>
