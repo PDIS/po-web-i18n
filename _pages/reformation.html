@@ -1,0 +1,53 @@
+---
+permalink: /reformation/
+layout: default
+---
+
+<div id="directions">
+    <div class="section section-end">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>
+                        {% t reformation.title %}
+                    </h2>
+                    <p class="text-center date">
+                        {% t reformation.update_date %}
+                    </p>
+                </div>
+            </div>
+            {% capture features %}{% t reformation.list %}{% endcapture %}
+            {% assign features = features | eval_array %}
+            {%- for reformation in features -%}
+            <div class="direction">
+                <div class="row justify-content-center">
+                    <div class="col-lg-1">
+                        <a class="number">
+                            {{forloop.index}}
+                        </a>
+                    </div>
+                    <div class="col-lg-9">
+                        <p class="title">
+                            {{reformation.title}}
+                        </p>
+                        <ol lang="{{site.lang}}">
+                            {%- for point in reformation.points -%}
+                            <li>
+                                {{point}}
+                            </li>
+                            {%- endfor -%}
+                        </ol>
+
+                        <div class="reason">
+                            <p>
+                                {{reformation.reason}}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {%- endfor -%}
+
+        </div>
+    </div>
+</div>
