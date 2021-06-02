@@ -4,7 +4,7 @@ script:
 - bundle exec jekyll build
 deploy:
   provider: pages
-  cleanup: true
+  cleanup: false
   token: "$GITHUB_TOKEN"
   keep_history: true
   local_dir: _site
