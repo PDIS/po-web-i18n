@@ -18,6 +18,7 @@ google_analytics:
 # --------- i18n settings ---------
 languages: ["en", "zh-TW"]
 exclude_from_localizations: ["assets", "CNAME", "favicon.ico"]
+default_locale_in_subfolder: true
 defaultLang: zh-TW
 languageNames:
   zh-TW: 繁體中文
