@@ -9,7 +9,7 @@ sass:
 
 include: ['_pages']
 
-exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "vendor"]
 
 twitter_username: TaiwanPDIS
 github_username: pdis
